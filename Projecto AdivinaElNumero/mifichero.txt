@@ -1,0 +1,13 @@
+El numero Secreto es: 7528
+Intento: 4
+Numero de aciertos: 0
+Numero de fallos: 4
+Intento: 3
+Numero de aciertos: 0
+Numero de fallos: 4
+Intento: 2
+Numero de aciertos: 0
+Numero de fallos: 4
+Intento: 1
+Numero de aciertos: 0
+Numero de fallos: 4
